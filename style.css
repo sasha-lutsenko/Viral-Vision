@@ -31,7 +31,7 @@ header{
 }
 
 .logo {
-    background-image: url("/assets/Logo.PNG");
+    background-image: url("assets/Logo.PNG");
     background-repeat: no-repeat;
     width: 30%;
     height: 55px;
@@ -163,7 +163,7 @@ main {
 }
 
 .arrows-down {
-    background: no-repeat url(/assets/3_arrows_down.PNG);
+    background: no-repeat url(assets/3_arrows_down.PNG);
     display: flex;
     position:relative;
     justify-content: center;
@@ -453,34 +453,34 @@ main {
     grid-row:1/3;
     grid-column: 1fr;
     height: 100%;
-    background: center/cover no-repeat url('/assets/Chorniy.jpeg');
+    background: center/cover no-repeat url('assets/Chorniy.jpeg');
 }
 
 .avatar-2 {
     grid-row:1/3;
     grid-column: 1fr;
     height: 100%;
-    background: center/cover no-repeat url('/assets/Pavlov.jpeg');
+    background: center/cover no-repeat url('assets/Pavlov.jpeg');
 }
 
 .avatar-3 {
     grid-row:1/3;
     grid-column: 1fr;
     height: 100%;
-    background: center/cover no-repeat url('/assets/Artiukh.jpeg');
+    background: center/cover no-repeat url('assets/Artiukh.jpeg');
 }
 
 .client-logo-1 {
     padding: 5px;
-    background: center/contain no-repeat url('/assets/Case_2_logo.png');
+    background: center/contain no-repeat url('assets/Case_2_logo.png');
 }
 .client-logo-2 {
     padding: 5px;
-    background: center/contain no-repeat url('/assets/Case_1_logo.png');
+    background: center/contain no-repeat url('assets/Case_1_logo.png');
 }
 .client-logo-3 {
     padding: 5px;
-    background: center/contain no-repeat url('/assets/Case_3_logo.png');
+    background: center/contain no-repeat url('assets/Case_3_logo.png');
 }
 
 .client-info {
